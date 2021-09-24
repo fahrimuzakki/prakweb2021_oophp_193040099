@@ -3,7 +3,7 @@
 //Jualan Produk
 //Komik
 //Game
-.
+
 class Produk {
     public $judul,
             $penulis,
@@ -99,3 +99,4 @@ echo "<br>";
 echo $produk1 -> getInfoLengkap();
 echo "<br>";
 echo $produk2 -> getInfoLengkap();
+?>
